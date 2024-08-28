@@ -2,7 +2,7 @@
   <nav class="top-0 absolute z-50 w-full flex flex-wrap items-center justify-between px-2 py-3 ">
     <div class="container px-4 mx-auto flex flex-wrap items-center justify-between">
       <div class="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start">
-        <h1 class="text-4xl text-white">GM Couching</h1>
+        <h1 class="text-4xl text-white">GM Coaching</h1>
 
       </div>
       <div class="lg:flex flex-grow items-center bg-white lg:bg-transparent lg:shadow-none hidden"
@@ -39,7 +39,7 @@
           <div class="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
             <div class="pr-12">
               <h1 class="text-white font-semibold text-3xl md:text-5xl">
-                Graciel Matines
+                Graciela Matines
               </h1>
               <p class="mt-4 text-lg text-gray-300 uppercase">
                 coaching y recursos humanos
@@ -158,7 +158,7 @@
       </div>
     </section>
 
-    <h1 class="text-5xl text-gray-600 text-center py-6">Mis sevicios</h1>
+    <h1 class="text-5xl text-gray-600 text-center py-6">Mis cevicios</h1>
 
     <section class="relative py-20">
       <div class="container mx-auto px-4">
