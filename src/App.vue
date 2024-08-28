@@ -39,7 +39,7 @@
           <div class="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
             <div class="pr-12">
               <h1 class="text-white font-semibold text-3xl md:text-5xl">
-                Graciela Matines
+                Graciela Martines
               </h1>
               <p class="mt-4 text-lg text-gray-300 uppercase">
                 coaching y recursos humanos
@@ -62,11 +62,11 @@
                   <i class="fas fa-award"></i>
                 </div>
                 <h6 class="text-xl font-semibold">Misión</h6>
-                <p class="mt-2 mb-4 text-gray-600 text-left">Inspirar, acompañar , guiar y empoderar a individuos y
+                <p class="mt-2 mb-4 text-gray-600 text-left">Inspirar, acompañar, guiar y empoderar a individuos y
                   equipos de trabajos a través de soluciones estratégicas en recursos humanos, coaching laboral y
-                  ejecutivo, como asi tambien en mentorías personalizadas.
-                  Mi objetivo es fomentar el desarrollo
-                  integral y el bienestar, ayudando a mis clientes a alcanzar sus metas profesionales y personales, y a
+                  ejecutivo, como así también en mentorías personalizadas.
+                  Mi objetivo es fomentar el desarrollo integral y el bienestar, ayudando a mis clientes a alcanzar sus
+                  metas profesionales y personales, y a
                   crear entornos de trabajo colaborativos y eficientes.
                 </p>
               </div>
@@ -102,51 +102,38 @@
                 <div class="grid md:grid-cols-6 md:gap-7">
                   <div class="md:col-span-2 text-gray-600 text-left rounded-md shadow-lg p-4">
                     <span class="font-bold text-black text-lg">Integridad:</span> Actúo con honestidad y transparencia,
-                    manteniendo altos
-                    estándares éticos en todas mis relaciones profesionales.
+                    manteniendo altos estándares éticos en todas mis relaciones profesionales.
                   </div>
                   <div class="md:col-span-2 text-gray-600 text-left rounded-md shadow-lg p-4">
                     <span class="font-bold text-black text-lg">Excelencia:</span> Mis servicios son de la más alta
-                    calidad,
-                    adaptándome a
-                    las necesidades específicas de cada cliente para superar sus expectativas.
+                    calidad, adaptándome a las necesidades específicas de cada cliente para superar sus expectativas.
                   </div>
                   <div class="md:col-span-2 text-gray-600 text-left rounded-md shadow-lg p-4">
                     <span class="font-bold text-black text-lg">Empatía:</span> Valoro y comprendo las perspectivas y
-                    desafíos
-                    únicos de
-                    cada cliente, proporcionando un apoyo personalizado y humano.
+                    desafíos únicos de cada cliente, proporcionando un apoyo personalizado y humano.
                   </div>
                   <div class="md:col-span-2 text-gray-600 text-left rounded-md shadow-lg p-4">
                     <span class="font-bold text-black text-lg">Confidencialidad:</span> Protejo la privacidad y la
-                    información
-                    confidencial
-                    de mis clientes, generando un ambiente de confianza y respeto.
+                    información confidencial de mis clientes, generando un ambiente de confianza y respeto.
                   </div>
                   <div class="md:col-span-2 text-gray-600 text-left rounded-md shadow-lg p-4">
                     <span class="font-bold text-black text-lg">Compromiso:</span> Estoy dedicada al éxito de mis
-                    clientes,
-                    trabajando
-                    arduamente para acompañarlos a alcanzar sus objetivos y maximizar su potencial.
+                    clientes, trabajando arduamente para acompañarlos a alcanzar sus objetivos y maximizar su potencial.
                   </div>
                   <div class="md:col-span-2 text-gray-600 text-left rounded-md shadow-lg p-4">
                     <span class="font-bold text-black text-lg">Innovación:</span> Mantengo una actitud proactiva y
-                    abierta a las
-                    nuevas
-                    tendencias y prácticas en recursos humanos y coaching, asegurando soluciones efectivas y
-                    contemporáneas.
+                    abierta a las nuevas tendencias y prácticas en recursos humanos y coaching, asegurando soluciones
+                    efectivas y contemporáneas.
                   </div>
                   <div class="md:col-start-2 md:col-span-2 text-gray-600 text-left rounded-md shadow-lg p-4">
                     <span class="font-bold text-black text-lg ">Desarrollo Continuo:</span> Fomento el aprendizaje y el
-                    crecimiento
-                    constante, tanto para mis clientes como para mí misma, apoyando el avance profesional y personal.
+                    crecimiento constante, tanto para mis clientes como para mí misma, apoyando el avance profesional y
+                    personal.
                   </div>
                   <div class="md:col-span-2 text-gray-600 text-left rounded-md shadow-lg p-4 ">
                     <span class="font-bold text-black text-lg">Colaboración:</span> Promuevo la cooperación y el trabajo
-                    en
-                    equipo, tanto
-                    dentro de las organizaciones como en mis interacciones con los clientes, para lograr los mejores
-                    resultados posibles.
+                    en equipo, tanto dentro de las organizaciones como en mis interacciones con los clientes, para
+                    lograr los mejores resultados posibles.
                   </div>
                 </div>
               </div>
@@ -158,7 +145,7 @@
       </div>
     </section>
 
-    <h1 class="text-5xl text-gray-600 text-center py-6">Mis cevicios</h1>
+    <h1 class="text-5xl text-gray-600 text-center py-6">Mis sevicios</h1>
 
     <section class="relative py-20">
       <div class="container mx-auto px-4">
@@ -171,9 +158,9 @@
             <div class="md:pr-12">
               <h3 class="text-3xl font-semibold">Servicios de Consultoría integral de Recursos Humanos</h3>
               <p class="mt-4 text-lg leading-relaxed text-gray-600">
-                Mediante un diagnostico y evaluación de situación se evaluara la posibilidad de realizar un desarrollo
+                Mediante un diagnóstico y evaluación de situación se evaluará la posibilidad de realizar un desarrollo
                 organizacional, gestión del talento, evaluación de desempeño, gestión del cambio y clima organizacional
-                como así también el servicio de gestión tercerizada del área de Recursos humanos
+                como así también el servicio de gestión tercerizada del área de Recursos Humanos.
               </p>
             </div>
           </div>
@@ -188,8 +175,8 @@
             <div class="md:pr-12">
               <h3 class="text-3xl font-semibold">SESIONES 1 A 1</h3>
               <p class="mt-4 text-lg leading-relaxed text-gray-600">
-                Si buscas potenciarte y superar los obstáculos en tu camino hacia el logro de tus metas, ¡estás en el
-                lugar correcto
+                Si buscás potenciarte y superar los obstáculos en tu camino hacia el logro de tus metas, ¡Astás en el
+                lugar correcto!
 
                 Como coach, te acompañaré en un espacio de reflexión y aprendizaje donde exploraremos nuevas acciones y
                 perspectivas. Te acompañaré a conectar con tu mejor versión y a alcanzar todos los objetivos que te
@@ -215,7 +202,7 @@
               <h3 class="text-3xl font-semibold">Mentorías</h3>
               <p class="mt-4 mb-2 text-lg leading-relaxed text-gray-600 underline">Mentoría Individual:</p>
               <p class="text-lg leading-relaxed text-gray-600">
-                Si queres y buscas un apoyo personalizado y estratégico como así también mejorar tu desempeño, avanzar
+                Si querés y buscás un apoyo personalizado y estratégico como así también mejorar tu desempeño, avanzar
                 en tu carrera y enfrentar con éxito los desafíos del entorno laboral. A través de sesiones uno a uno,
                 trabajaremos de cerca contigo para identificar tus necesidades y objetivos, y crear un plan de acción
                 efectivo que te permita alcanzar tu máximo potencial.
@@ -287,7 +274,7 @@
           <div class="w-full lg:w-8/12 px-4">
             <h2 class="text-4xl font-semibold text-white">PROGRAMAS</h2>
             <h4 class="text-xl text-white">CONECTA CON TU POTENCIAL</h4>
-            <p class="text-xl leading-relaxed mt-4 mb-4 text-gray-500">Si estas en búsqueda de conectar con tu
+            <p class="text-xl leading-relaxed mt-4 mb-4 text-gray-500">Si estás en búsqueda de conectar con tu
               potencial, ese que está ahí adentro, este programa es para vos…</p>
             <p class="text-xl leading-relaxed mt-4 mb-4 text-gray-500">Es un programa diseñado para quien verdaderamente
               tiene el compromiso de conectar con su verdadero potencial, ese que está ahí adentro y que hace varios
