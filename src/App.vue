@@ -2,7 +2,7 @@
   <nav class="top-0 absolute z-50 w-full flex flex-wrap items-center justify-between px-2 py-3 ">
     <div class="container px-4 mx-auto flex flex-wrap items-center justify-between">
       <div class="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start">
-        <h1 class="text-4xl text-white">GM Coaching</h1>
+        <img class="h-16" src="./assets/images/logo_header_blanco.png" alt="Logo GM">
 
       </div>
       <div class="lg:flex flex-grow items-center bg-white lg:bg-transparent lg:shadow-none hidden"
@@ -39,7 +39,7 @@
           <div class="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
             <div class="pr-12">
               <h1 class="text-white font-semibold text-3xl md:text-5xl">
-                Graciela Martines
+                Graciela Martinez
               </h1>
               <p class="mt-4 text-lg text-gray-300 uppercase">
                 coaching y recursos humanos
@@ -318,6 +318,9 @@
               <i class="flex fab fa-github"></i>
             </button>
           </div>
+        </div>
+        <div class="flex justify-end items-center w-full lg:w-6/12 px-4">
+          <img class="w-40 h-40" src="./assets/images/logo_redondo_footer.png" alt="Logo GM Redondo">
         </div>
       </div>
       <hr class="my-6 border-gray-400" />
