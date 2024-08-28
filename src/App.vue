@@ -62,7 +62,8 @@
                   <i class="fas fa-award"></i>
                 </div>
                 <h6 class="text-xl font-semibold">Misión</h6>
-                <p class="mt-2 mb-4 text-gray-600 text-left">Inspirar, acompañar, guiar y empoderar a individuos y
+                <p class="mt-2 mb-4 text-gray-600 text-left md:h-40">Inspirar, acompañar, guiar y empoderar a individuos
+                  y
                   equipos de trabajos a través de soluciones estratégicas en recursos humanos, coaching laboral y
                   ejecutivo, como así también en mentorías personalizadas.
                   Mi objetivo es fomentar el desarrollo integral y el bienestar, ayudando a mis clientes a alcanzar sus
@@ -81,7 +82,7 @@
                   <i class="fas fa-retweet"></i>
                 </div>
                 <h6 class="text-xl font-semibold">Visión</h6>
-                <p class="mt-2 mb-4 text-gray-600 text-left">
+                <p class="mt-2 mb-4 text-gray-600 text-left md:h-40">
                   Convertirme en una líder reconocida en el campo del desarrollo profesional y organizacional,
                   destacándome por mi compromiso con la excelencia, la innovación y el impacto positivo en mis clientes.
                   Aspiro a ser la elección preferida para aquellos que buscan transformar su potencial en resultados
