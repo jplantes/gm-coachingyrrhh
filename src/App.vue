@@ -296,13 +296,13 @@
       </svg>
     </div>
     <div class="container mx-auto px-4">
-      <div class="flex flex-wrap">
-        <div class="w-full lg:w-6/12 px-4">
-          <h4 class="text-3xl font-semibold">Contacto</h4>
-          <h5 class="text-lg mt-0 mb-2 text-gray-700">
+      <div class="flex flex-col md:flex-row">
+        <div class=" lg:w-6/12 px-4 mb-8 md:mb-0">
+          <h4 class="text-3xl text-center md:text-left font-semibold">Contacto</h4>
+          <h5 class="text-lg text-center md:text-left mt-0 mb-2 text-gray-700">
             Alta Gracia, Córdoba
           </h5>
-          <div class="mt-6">
+          <div class="flex justify-center md:justify-start mt-6">
             <button
               class="bg-white text-blue-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-3"
               type="button">
@@ -319,7 +319,7 @@
             </button>
           </div>
         </div>
-        <div class="flex justify-end items-center w-full lg:w-6/12 px-4">
+        <div class="flex justify-center md:justify-end items-center lg:w-6/12 px-4">
           <img class="w-40 h-40" src="./assets/images/logo_redondo_footer.png" alt="Logo GM Redondo">
         </div>
       </div>
