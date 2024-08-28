@@ -92,7 +92,7 @@
             </div>
           </div>
 
-          <div class="p-6 w-full md:w-11/12 px-4 text-center">
+          <div class="p-6 w-full px-4 text-center">
             <div class="flex flex-col min-w-0 bg-white w-full mb-8 shadow-lg rounded-lg">
               <div class="px-4 py-5">
                 <div
@@ -146,7 +146,7 @@
       </div>
     </section>
 
-    <h1 class="text-5xl text-gray-600 text-center py-6">Mis sevicios</h1>
+    <h1 class="text-5xl text-gray-600 text-center py-6">Mis servicios</h1>
 
     <section class="relative py-20">
       <div class="container mx-auto px-4">
