@@ -298,7 +298,7 @@
         <div class=" lg:w-6/12 px-4 mb-8 md:mb-0">
           <h4 class="text-3xl text-center md:text-left font-semibold">Contacto</h4>
           <h5 class="text-lg text-center md:text-left mt-0 mb-2 text-gray-700">
-            Alta Gracia, Córdoba
+            Córdoba & Buenos Aires
           </h5>
           <div class="flex justify-center md:justify-start mt-6">
             <a href="https://wa.me/5493541548717" target="_blank"
