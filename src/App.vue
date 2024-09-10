@@ -10,7 +10,8 @@
         <ul class="flex flex-col lg:flex-row list-none lg:ml-auto">
           <li class="flex items-center">
             <a class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-              href="https://wa.me/5493541548717" target="_blank"><i
+              href="https://wa.me/5493541548717?text=Hola%20Graciela%20Martinez,%20ingrese%20en%20tu%20página%20%20y%20estoy%20interesada%20en%20tus%20servicios.%20Quiero%20que%20me%20contacten!"
+              target="_blank"><i
                 class="lg:text-gray-300 text-gray-500 font-bold fab fa-whatsapp text-lg leading-lg "></i><span
                 class="lg:hidden inline-block ml-2">WhatsApp</span>
             </a>
@@ -174,7 +175,7 @@
             <div class="md:pr-12">
               <h3 class="text-3xl font-semibold">SESIONES 1 A 1</h3>
               <p class="mt-4 text-lg leading-relaxed text-gray-600">
-                Si buscás potenciarte y superar los obstáculos en tu camino hacia el logro de tus metas, ¡Astás en el
+                Si buscás potenciarte y superar los obstáculos en tu camino hacia el logro de tus metas, ¡Estás en el
                 lugar correcto!
 
                 Como coach, te acompañaré en un espacio de reflexión y aprendizaje donde exploraremos nuevas acciones y
@@ -301,7 +302,8 @@
             Córdoba & Buenos Aires
           </h5>
           <div class="flex justify-center md:justify-start mt-6">
-            <a href="https://wa.me/5493541548717" target="_blank"
+            <a href="https://wa.me/5493541548717?text=Hola%20Graciela%20Martinez,%20ingrese%20en%20tu%20página%20%20y%20estoy%20interesada%20en%20tus%20servicios.%20Quiero%20que%20me%20contacten!"
+              target="_blank"
               class="bg-white text-blue-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-2">
               <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
